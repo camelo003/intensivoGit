@@ -1,0 +1,107 @@
+* git intensivo
+
+** ideia
+
+breve introducao ao git
+
+** slides
+
+*** o que é git
+
+	- programa pra versionar programas
+
+*** github
+
+	- rede social de programadores (mais ou menos)
+	- serviço online (empresa) baseado em git
+	- frontend do git?
+
+*** linha de comando
+
+	- precisa saber? não (mas ajuda [muito])
+	- casca (shell)
+	- outra forma de interagir com o computador
+		- copiar arquivos
+		- criar arquivos
+		- mover arquivos
+		- remover arquivos
+		- editar arquivos (!!!)
+		- executar programas
+		- programas específicos p/ linha de comando
+	- powershell, terminal, bash (zsh, fish...)
+
+*** um pouco de linux
+
+	- precisa saber linux? não.
+	- 2 + 3 = _
+	- 2 + _ = 5
+	- o comando `diff`
+	- o comando `patch`
+
+*** como o git funciona?
+
+	- salvando e aplicando a diferença (delta) dos arquivos
+
+*** como instalar?
+
+	- https://git-scm.com/downloads
+
+*** exemplo prático
+
+	- projeto
+		- index.html
+		- style.css
+		- script.js
+
+*** comandos git
+
+	- `git init`
+		transforma a pasta atual em um repositório git
+	- `git status`
+		mostra o estado do repositório atual
+	- `git add <ARQUIVO>`
+		adiciona o arquivo *ao index*
+	- `git commit`
+		adiciona os arquivos /que estão no index/ ao *repositório* (finalmente)
+	- `git log`
+		mostra o histórico do repositório
+	- `git checkout <COMMIT>`
+		navega entre os diferentes /commits/
+
+*** 3 lugares mágicos
+
+	- "working tree", index e repositório
+
+*** porque é legal!?
+
+	- segurança (backup)
+	- descentralizado!
+
+*** desenvolvento em conjunto
+
+	- comando `git clone`
+	- comando `git push`
+	- comando `git pull`
+
+*** outro exemplo prático
+
+	- alice, bob e remote
+
+*** github no lugar do remote
+
+	- dada as devidas proporções
+	- alternativas: gitea, codeberg, sourcehut...
+
+*** `RTFM` (não perca tempo, leia o livro)
+
+	- https://git-scm.com/book/pt-br/v2
+
+*** coding train tutorial
+
+	- https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV
+	- inglês (mas com legenda)
+
+*** oh my git!
+
+	- jogo de cartas ensinando git
+	- https://ohmygit.org/
