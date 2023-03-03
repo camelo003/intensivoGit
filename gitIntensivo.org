@@ -107,5 +107,5 @@ breve introducao ao git
 
 *** oh my git!
 
-	- jogo de cartas ensinando git
+	- jogo de cartas ensinando git (ingles)
 	- https://ohmygit.org/
