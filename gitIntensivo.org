@@ -87,6 +87,10 @@ breve introducao ao git
 
 	- alice, bob e remote
 
+*** nao-lineariedade
+
+	- comando `git log --all --oneline --graph`
+
 *** github no lugar do remote
 
 	- dada as devidas proporções
