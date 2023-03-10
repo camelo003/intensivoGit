@@ -5,7 +5,6 @@
 breve introducao ao git
 
 ** slides
-
 *** o que é git
 
 	- programa pra versionar programas
@@ -107,5 +106,10 @@ breve introducao ao git
 
 *** oh my git!
 
-	- jogo de cartas ensinando git (ingles)
+	- jogo de cartas ensinando git (inglês)
 	- https://ohmygit.org/
+
+*** learn git branching
+	- jogo de seguir (alguns) commandos do git
+	- https://learngitbranching.js.org/?locale=pt_BR
+
