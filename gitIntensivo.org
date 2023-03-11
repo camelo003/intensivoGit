@@ -2,24 +2,23 @@
 #+author: @camelo003
 #+date: [2023-03-11 sáb]
 
-* git intensivo
+* ideia
 
-** ideia
+breve introducao ao git :)
+foco no fundamento (como funciona)
+não esquecer: ~M-x org-tree-slide-mode~
 
-breve introducao ao git
-
-** slides
-*** o que é git
+* o que é git
 
 	- programa pra versionar programas
 
-*** github
+* github
 
 	- rede social de programadores (mais ou menos)
 	- serviço online (empresa) baseado em git
 	- frontend do git?
 
-*** linha de comando
+* linha de comando
 
 	- precisa saber? não (mas ajuda [muito])
 	- casca (shell)
@@ -33,7 +32,7 @@ breve introducao ao git
 		- programas específicos p/ linha de comando
 	- powershell, terminal, bash (zsh, fish...)
 
-*** um pouco de linux
+* um pouco de linux
 
 	- precisa saber linux? não.
 	- 2 + 3 = _
@@ -41,23 +40,23 @@ breve introducao ao git
 	- o comando `diff`
 	- o comando `patch`
 
-*** como o git funciona?
+* como o git funciona?
 
 	- salvando e aplicando a diferença (delta) dos arquivos
 	- obs: arquivos de texto!
 
-*** como instalar?
+* como instalar?
 
 	- https://git-scm.com/downloads
 
-*** exemplo prático
+* exemplo prático
 
 	- projeto
 		- index.html
 		- style.css
 		- script.js
 
-*** comandos git
+* comandos git
 
 	- `git init`
 		transforma a pasta atual em um repositório git
@@ -72,71 +71,79 @@ breve introducao ao git
 	- `git checkout <COMMIT>`
 		navega entre os diferentes /commits/
 
-*** 3 lugares mágicos
+* 3 lugares mágicos
 
 	- "working tree", index e repositório
 	- [[./tresLugares.png]]
 	- (C-c C-x C-v)
 
-*** porque é legal!?
+* porque é legal!?
 
 	- segurança (backup)
 	- descentralizado!
 
-*** desenvolvento em conjunto
+* desenvolvento em conjunto
 
 	- comando `git clone`
 	- comando `git push`
 	- comando `git pull`
 
-*** outro exemplo prático
+* outro exemplo prático
 
 	- alice, bob e remote
 	- obs: ~git config receive.denyCurrentBranch "ignore"~
 	- obs: ~git config user.name <NOME>~
 	- obs: ~git config user.email <E-MAIL>~
 
-*** nao-lineariedade
+* nao-lineariedade
 
 	- comando `git log --all --oneline --graph`
 
-*** ramificando
+* ramificando
 
 	- comando ~git branch~
 	- comando ~git branch <RAMIFICAÇÃO>~
 	- comando ~git branch -d <RAMIFICAÇÃO>~
 
-*** github no lugar do remote
+* github no lugar do remote
 
 	- dada as devidas proporções
 	- alternativas: gitea, codeberg, sourcehut...
 
-*** `RTFM` (não perca tempo, leia o livro)
+* referências
+** 'RTFM' (não perca tempo, leia o livro)
 
 	- https://git-scm.com/book/pt-br/v2
 
-*** coding train tutorial
+** coding train tutorial
 
 	- https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV
 	- inglês (mas com legenda)
 
-*** oh my git!
+** oh my git!
 
 	- jogo de cartas ensinando git (inglês)
 	- https://ohmygit.org/
 	- https://github.com/git-learning-game/oh-my-git
 
-*** learn git branching
+** learn git branching
 
 	- jogo de seguir (alguns) commandos do git
 	- https://learngitbranching.js.org/?locale=pt_BR
 
-*** "referência visual"
+** "referência visual"
 
 	- https://marklodato.github.io/visual-git-guide/index-pt.html
 
-*** git gud
+** git gud
 
 	- https://github.com/benthayer/git-gud
 	- https://github.com/benthayer/git-gud/blob/main/CONTRIBUTING.md
 
+* questões?
+
+	???
+
+* fin
+
+	Obrigado =] !
