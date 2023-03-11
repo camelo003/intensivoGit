@@ -75,6 +75,8 @@ breve introducao ao git
 *** 3 lugares mágicos
 
 	- "working tree", index e repositório
+	- [[./tresLugares.png]]
+	- (C-c C-x C-v)
 
 *** porque é legal!?
 
