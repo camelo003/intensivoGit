@@ -44,6 +44,7 @@ breve introducao ao git
 *** como o git funciona?
 
 	- salvando e aplicando a diferença (delta) dos arquivos
+	- obs: arquivos de texto!
 
 *** como instalar?
 
