@@ -100,6 +100,12 @@ breve introducao ao git
 
 	- comando `git log --all --oneline --graph`
 
+*** ramificando
+
+	- comando ~git branch~
+	- comando ~git branch <RAMIFICAÇÃO>~
+	- comando ~git branch -d <RAMIFICAÇÃO>~
+
 *** github no lugar do remote
 
 	- dada as devidas proporções
