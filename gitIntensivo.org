@@ -124,3 +124,12 @@ breve introducao ao git
 	- jogo de seguir (alguns) commandos do git
 	- https://learngitbranching.js.org/?locale=pt_BR
 
+*** "referência visual"
+
+	- https://marklodato.github.io/visual-git-guide/index-pt.html
+
+*** git gud
+
+	- https://github.com/benthayer/git-gud
+	- https://github.com/benthayer/git-gud/blob/main/CONTRIBUTING.md
+
