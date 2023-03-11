@@ -118,6 +118,7 @@ breve introducao ao git
 
 	- jogo de cartas ensinando git (inglês)
 	- https://ohmygit.org/
+	- https://github.com/git-learning-game/oh-my-git
 
 *** learn git branching
 	- jogo de seguir (alguns) commandos do git
