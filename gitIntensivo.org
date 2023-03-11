@@ -92,6 +92,9 @@ breve introducao ao git
 *** outro exemplo prático
 
 	- alice, bob e remote
+	- obs: ~git config receive.denyCurrentBranch "ignore"~
+	- obs: ~git config user.name <NOME>~
+	- obs: ~git config user.email <E-MAIL>~
 
 *** nao-lineariedade
 
